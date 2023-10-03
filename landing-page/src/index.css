@@ -1,0 +1,200 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Button button{
+  background-color: #1AB6FF;
+  width: 100%;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  color: white;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center; 
+  padding: 20px 75px;
+  background-color: #F8FAFC;
+}
+.right{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 20px;
+}
+.left{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+  justify-content: space-between;
+}
+.list{
+  display: flex;
+  gap: 30px;
+}
+.Trade{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border-top: 3px solid #FFFFFF;
+  background-color: #F8FAFC;
+  padding: 50px 0;
+}
+.Trade h1{
+  font-size: 2.5rem;
+  line-height: 72px;
+  font-weight: 900;
+}
+.Trade p{
+  line-height: 160%;
+  color: #343434;
+  padding: 0 30rem;
+  font-size: 1.1rem;
+}
+.Trade img{
+  width: 1009.43px;
+  height: 686px;
+}
+.purchase{
+  display: flex;
+  justify-content: space-between;
+  gap: 5rem;
+  align-items: center;
+  /* align-items: flex-start; */
+  text-align: center;
+  padding: 50px 0;
+  width: 100%;
+  margin: auto;
+  padding: 5rem 15rem;
+}
+.purchase h1{
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding: 20px 0;
+  text-align: left;
+  width: 80%;
+}
+.purchase p{
+  line-height: 160%;
+  color: #343434; 
+  text-align: left;
+  width: 70%;
+}
+.payment{
+  text-align: center;
+  background-color: #F8FAFC;
+  padding: 20px;
+}
+.span2{
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding: 20px 0;
+  display: block;
+}
+.span1{
+ line-height: 160%;
+ padding: 0 50px;
+}
+.pay{
+  width: 20%;
+  height: 25vh;
+  padding:30px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+}
+.boxStyle{
+  display: flex;
+  justify-content: center;
+  gap: 6rem;
+  align-items: center;
+  text-align: center;
+  padding: 30px;
+}
+.investment{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 10rem;
+  background-color: #FFFFFF;
+  align-items: center;
+}
+.Moniter{
+  width: 60%;
+  padding: 60px; 
+}
+.MonitorImg{
+  width: 40%;
+}
+.Moniter h1{
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding: 20px 0;
+}
+.Moniter p{
+  line-height: 160%;
+}
+.everyone{
+  text-align: center;
+  background-color: #F8FAFC;
+  padding: 20px;
+}
+.span2{
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding: 20px 0;
+  display: block;
+}
+.span1{
+ line-height: 160%;
+ padding: 0 50px;
+ text-align: center;
+}
+.pay2{
+  width: 20%;
+  height: 25vh;
+  padding:30px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
+.trade_on{
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  background-color: #FFFFFF;
+  align-items: center;
+  gap: 7rem;
+}
+.start{
+  display: flex;
+  justify-content: space-between;
+  background-color:#F8FAFC;
+  padding: 5rem 10rem;
+  height: 35vh;
+}
+.EndPoint{
+  width: 100%;
+  display: flex;
+  padding-left: 20px;
+  padding-top: 4rem;
+  height: 35vh;
+}
+.links{
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: -8rem;
+}
